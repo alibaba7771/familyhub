@@ -4,3 +4,5 @@ eggs
 chicken
 orange juice
 coffee
+pears
+cherries
