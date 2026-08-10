@@ -1,1 +1,3 @@
-13500
+steve : 1000
+yousef : 2000
+ashraf : 3000
